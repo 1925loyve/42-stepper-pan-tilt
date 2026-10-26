@@ -1,0 +1,9 @@
+# Local project notes; excluded from GitHub uploads.
+/readme.txt
+
+# Generated watermark previews; publish selected copies deliberately.
+/watermarked/
+
+# Private originals and recovery files must stay local.
+/.local-backup/
+*.[cC][rR]2
